@@ -1,0 +1,8 @@
+#surefire
+#Tue Jul 17 16:34:46 IST 2018
+maven.ext.class.path=C\:\\Program Files\\NetBeans 8.2\\java\\maven-nblib\\netbeans-eventspy.jar
+user.dir=C\:\\Users\\neerajsah\\Documents\\NetBeansProjects\\Hris
+file.encoding=UTF-8
+localRepository=C\:\\Users\\neerajsah\\.m2\\repository
+basedir=C\:\\Users\\neerajsah\\Documents\\NetBeansProjects\\Hris
+test=Hris
